@@ -1,0 +1,8 @@
+C:\Users\speed center\source\repos\Project 1\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.AssemblyReference.cache
+C:\Users\speed center\source\repos\Project 1\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.SuggestedBindingRedirects.cache
+C:\Users\speed center\source\repos\Project 1\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.CoreCompileInputs.cache
+C:\Users\speed center\source\repos\Project 1\ConsoleApp29\bin\Debug\ConsoleApp29.exe.config
+C:\Users\speed center\source\repos\Project 1\ConsoleApp29\bin\Debug\ConsoleApp29.exe
+C:\Users\speed center\source\repos\Project 1\ConsoleApp29\bin\Debug\ConsoleApp29.pdb
+C:\Users\speed center\source\repos\Project 1\ConsoleApp29\obj\Debug\ConsoleApp29.exe
+C:\Users\speed center\source\repos\Project 1\ConsoleApp29\obj\Debug\ConsoleApp29.pdb
